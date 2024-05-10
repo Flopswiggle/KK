@@ -1,3 +1,4 @@
+// Created By Keira Coughanour with help from Kim Gross
 class card {
  String suit; 
  	int value; 
